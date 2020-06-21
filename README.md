@@ -45,3 +45,18 @@ Well, we were off by a few million! Thanks to advent of modern technology, such 
 
 Currently we recommend the budget be set to $38 million, as our studies have concluded to the be the median amount spent.  We also want you to keep in kind that the budget, according to the market trend, will continue to rise as demands for spectacle increase.
 
+## What time of the year is it most profitable to release a movie?
+
+### Initial Thoughts
+This one is a little a little tricky for me personally because I know that summer is usually when a lot of the big hitter movies come out.  Winter has always been heavy with movie releases.  Then there's the fact that all of the Oscar contenders usually release in the fall.  Personally, I felt that summer was probably most profitable, are there other profitable times as well?
+
+### Findings and Conclusions
+![Imgur](https://i.imgur.com/mEVnN3U.png)
+
+Well, summer wins by a land slide, though you want to get started quickly.  To maximize profits, you're going to want to release starting in May and no later than June.  There is a steep drop off once you hit July and people are spending money on Back-to-School supplies.  The holiday season is also very profitable since families are spending a lot of time together.  Those profits drop off steeply come the beginning of the year, most likely because of people wanting to replenish their bank accounts after the holiday season.  As for why Oscar contenders are released during a less profitable time, I believe it's because the studios don't want to have their movies overlooked during the flood of cinema releases during the summer.  
+
+### Recommendation
+
+To maximize profit, begin releasing in May and no later than June. 
+
+## Thank you for considering our team for your research!
