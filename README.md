@@ -59,4 +59,7 @@ Well, summer wins by a land slide, though you want to get started quickly.  To m
 
 To maximize profit, begin releasing in May and no later than June. 
 
+## Important Note:
+To see all of my work, please reference the notebook labeled Ben's Final Draft.ipynb.
+
 ## Thank you for considering our team for your research!
