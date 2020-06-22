@@ -1,6 +1,19 @@
 # Movie-Industry-Analysis
 An analysis of the movie industry for prospective business stakeholders.
 
+# Repository
+Questions answered by the team are located in the "Team Questions Folder"
+"How Big Should the Budget be? How has that changed over the Years?" is located in the "Median Budget Changes.ipynb" file
+"What is the most profitable genre?" is located in the "What is the Highest Grossing Genre.ipynb" file (the question and the file are labeled wrong: "What is the most profitable genre?" should be used instead of the "What is the Highest Grossing Genre"
+
+My personal question and my part of cleaning is located in the "Teammate Work" folder in the "Alex cleaning and personal question (how does budget affect profitability and revenue).ipynb"	
+The question is "How does budget affect revenue and profitability"
+The dataframes cleaned are located under the "Dataframes cleaned by Alex" heading (AT1: dataframe_id_imdb_title_basics_gz.csv AT2: dataframe_id_imdb_title_crew_gz.csv AT3: dataframe_id_imdb_title_principals_gz.csv)
+
+The presentation is the "Movie Industry Analysis(1).pdf" file
+
+The rest of the files in the home folder are a mix of original datasets and cleaned versions, "ZipFolders" contains the majority of the original datasets, Backups and Copies" contains the initial workbooks we used to clean data and answer questions, "Miscellaneous" contains a mix of merged and cleaned dataframes and partial attempts to answer some questions
+
 ## Goals
 Microsoft has asked us to give a presentation on how to get started in the movie business.  
 
@@ -59,7 +72,20 @@ Well, summer wins by a land slide, though you want to get started quickly.  To m
 
 To maximize profit, begin releasing in May and no later than June. 
 
-## Important Note:
-To see all of my work, please reference the notebook labeled Ben's Final Draft.ipynb.
+## How does budget affect revenue and profitability?
+
+### Initial Thoughts 
+My initial thinking was that the higher budget could lead to lower profitability because higher level of revenues would be required to make a movie profitable. The relationship between budget and revenue was also not clear since there are many examples of movies that were popular, even though they had a low budget. Furthermore, some movies historically failed to gain traction despite high budget.
+
+### Findings and Conclusions
+
+![Imgur](https://i.imgur.com/5AEIB9W.png)
+![Imgur](https://i.imgur.com/YKiOwrd.png)
+
+As we can see from the "Budget versus profit trend" visualization, there is a strong relationship between the size of the budget and the revenue. As budget of the movie increases, its revenue also increases. As we can see from the "Budget and profitability" visualization, when the budget is on the lower side (sub $150MM USD) there is a higher proportion of movies that are unprofitable. This can be explained by that the higher budget movies are typically blockbuster that appeal to a wider audience and the fact that movies with higher budgets are more rigourously vetted.
+
+### Conclusion
+To increase the chances of profitability, be prepared to increase the budget!
 
 ## Thank you for considering our team for your research!
+
